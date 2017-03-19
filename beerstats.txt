@@ -1,0 +1,2126 @@
+(env) C02T21QSFVH4-lm:beercrawler lsalmon$ python3 beercrawler.py
+-------------new beer-----------
+beer: Samuel Adams (Barrel Room Collection) New World Tripel
+brewer: Boston Beer Company
+style: Abbey Tripel
+number of ratings: 509
+weighted avg: 3.63
+overall rating: 94
+abv: 10%
+calories: 300
+description: 
+        Samuel Adams New World Tripel: Pale gold in color, this ale is big, flavorful and complex. A special Belgian yeast strain adds tropical fruit and spice notes to the crisp dry ale, while Saaz hops add a subtle herbal note. 
+      
+-------------new beer-----------
+beer: Cardeña
+brewer: Monasterio de San Pedro de Cardeña
+style: Abbey Tripel
+number of ratings: 17
+weighted avg: 3.33
+overall rating: 70
+abv: 7%
+calories: 210
+description: 
+        Cardeña es la primera cerveza trapense elaborada en España para la abadía de San Pedro de Cardeña (Burgos), uno de los cenobios más antiguos de España cuya existencia está atestiguada desde el siglo IX.
+Elaborada de forma artesanal con una cuidada selección de malta de cebada, lúpulo, levadura y agua, con segunda fermentación en botella, siguiendo la centenaria tradición de los maestros cerveceros trapenses.
+Cardeña es una cerveza color ámbar claro con abundante corona de espuma, fino aroma, sabor afrutado y herbal con final largo y ligeramente seco.
+      
+-------------new beer-----------
+beer: Perennial Violet
+brewer: Perennial Artisan Ales
+style: Abbey Tripel
+number of ratings: 46
+weighted avg: 3.52
+overall rating: 93
+abv: 9%
+calories: 270
+-------------new beer-----------
+beer: Jackie Os Kentucky Monk
+brewer: Jackie Os Pub & Brewery
+style: Abbey Tripel
+number of ratings: 79
+weighted avg: 3.58
+overall rating: 93
+abv: 8%
+calories: 240
+description: 
+        Kentucky Monk is a bourbon barrel aged Belgian triple that is crafted with Belgian Pilsen malt, white wheat, Crystal 10, and exclusively Saaz hops. The Cantrell Honey Farm in Athens, Ohio supplies gallons of locally harvested Golden Rod honey for this brew. The honey is added at the end of the boil to give this Belgian style triple an elevation in flavor and alcohol. The interplay of fruit/clove character from our Belgian yeast and the local honey is apparent but not aggressive. After this Belgian style triple is ready for consumption, we age a portion of this heavenly brew in bourbon barrels to create Kentucky Monk. Wonderful vanilla and coconut aromas and flavors penetrate the beer. Hints of bourbon, caramel, and honey take Kentucky Monk to a whole new level. An amazing aperitif that embraces Belgian brewing tradition and American craft brewing creativity.
+      
+-------------new beer-----------
+beer: Burial The Crucifix Tripel
+brewer: Burial Beer Company
+style: Abbey Tripel
+number of ratings: 10
+weighted avg: 3.34
+overall rating: 72
+abv: 9.1%
+calories: 273
+description: 
+        A beer made from nothing more than 6-row Pilsner malt and a spattering of oats and refermented on cane sugar then finished with a small dose of European aromatic hops. This beer is sharp to the pallet and deceivingly light despite its 9%+ strength. Expect herbal aromas and a sweet orchard fruit finish.
+
+      
+-------------new beer-----------
+beer: Church Brew Millennium Trippel
+brewer: Church Brew Works
+style: Abbey Tripel
+number of ratings: 107
+weighted avg: 3.42
+overall rating: 81
+abv: 9%
+calories: 270
+-------------new beer-----------
+beer: Northern Monk / Cigar City The Trilogy MMXVI: Yeast
+brewer: Northern Monk Brew Co.
+style: Abbey Tripel
+number of ratings: 27
+weighted avg: 3.48
+overall rating: 87
+abv: 9%
+calories: 270
+-------------new beer-----------
+beer: Dragonmead Final Absolution Belgian Style Trippel 
+brewer: Dragonmead Brewery
+style: Abbey Tripel
+number of ratings: 310
+weighted avg: 3.55
+overall rating: 91
+abv: 10%
+calories: 300
+description: 
+        This is the ultimate Belgian style. The very high gravity of this beer is balanced by the smoothness of its finish. Banana and Clove aromas come from the Belgian yeast strain combining with the generous dose of Belgian Candi Sugar. The Saaz hops help to give this beer a balanced bitterness with no noticeable hop aroma.
+      
+-------------new beer-----------
+beer: Lantern Tripel
+brewer: Lantern Brewing Company
+style: Abbey Tripel
+number of ratings: 10
+weighted avg: 3.39
+overall rating: 82
+abv: 9%
+calories: 270
+description: 
+        A light golden and full-flavored Abbey-style ale, wrapping aromatic esters and complex, fruity and spicy flavors into an intriguing taste that fades with a gentle alcoholic warming. 9% abv
+      
+-------------new beer-----------
+beer: Charlevoix 8e Jour
+brewer: Microbrasserie Charlevoix / Le Saint Pub
+style: Abbey Tripel
+number of ratings: 67
+weighted avg: 3.78
+overall rating: 98
+abv: 10%
+calories: 300
+description: 
+        Tripel brewed with champagne yeast.
+      
+-------------new beer-----------
+beer: De Prael Sjakie
+brewer: Brouwerij de Prael
+style: Abbey Tripel
+number of ratings: 36
+weighted avg: 3.33
+overall rating: 74
+abv: 8.5%
+calories: 255
+-------------new beer-----------
+beer: Taxman Exemption
+brewer: Taxman Brewing Company
+style: Abbey Tripel
+number of ratings: 17
+weighted avg: 3.5
+overall rating: 88
+abv: 8.5%
+calories: 255
+description: 
+        Claim an Exemption, our abbey-style tripel. This crisp golden strong ale unites lemon, orange peel, and coriander spices with flavorful Belgian esters. White wheat, oat, and Belgian artisan malts contribute a moderate body, balanced by a generous amount of Belgian candi sugar.
+      
+-------------new beer-----------
+beer: Maredsous 10 Tripel 
+brewer: Duvel Moortgat
+style: Abbey Tripel
+number of ratings: 1892
+weighted avg: 3.65
+overall rating: 95
+abv: 10%
+calories: 300
+-------------new beer-----------
+beer: Lefebvre Floreffe Triple
+brewer: Brasserie Lefebvre
+style: Abbey Tripel
+number of ratings: 573
+weighted avg: 3.45
+overall rating: 84
+abv: 8%
+calories: 240
+-------------new beer-----------
+beer: Fegleys Brew Works Belgian Triple 
+brewer: Fegleys Brew Works
+style: Abbey Tripel
+number of ratings: 13
+weighted avg: 3.35
+overall rating: 75
+abv: 9%
+calories: 270
+description: 
+        Belgian style strong ale with a pale straw color. This high octane ale has a spicy flavor with hints of green apples, pears and banana.
+      
+-------------new beer-----------
+beer: Unibroue La Fringante
+brewer: Unibroue (Sapporo)
+style: Abbey Tripel
+number of ratings: 334
+weighted avg: 3.69
+overall rating: 96
+abv: 10%
+calories: 300
+description: 
+        Joshs translation of the French description:  La Fringante is a deluxe, triple-fermented beer born of a unique strain of yeast which gives it an unexpected finesse.  A champagne-like effervescence, its vigourous presence in the mouth underlines its markedly strong personality of balanced flavours of spices, malt and hops.
+      
+-------------new beer-----------
+beer: Burial Reaper Oaked Tripel
+brewer: Burial Beer Company
+style: Abbey Tripel
+number of ratings: 20
+weighted avg: 3.43
+overall rating: 84
+abv: 8.5%
+calories: 255
+description: 
+        Reaper Oaked Tripel (8.5% ABV): There is no greater challenge than trying to perfect this Trappist-style beer. We perfected our recipe by using local honey, 6-row malt, medium-charred French oak and a small dose of Citra hops. This beer is a flavor bomb that will please everyone from the casual beer drinker to the wine aficionado.
+
+      
+-------------new beer-----------
+beer: Bièropholie Galax Tripel
+brewer: Brasseurs Illimités
+style: Abbey Tripel
+number of ratings: 19
+weighted avg: 3.39
+overall rating: 78
+abv: 10%
+calories: 300
+description: 
+        Triple houblonnée à cru au houblon Galaxy
+      
+-------------new beer-----------
+beer: Boelens Tripel Klok
+brewer: Boelens
+style: Abbey Tripel
+number of ratings: 165
+weighted avg: 3.44
+overall rating: 83
+abv: 8.5%
+calories: 255
+-------------new beer-----------
+beer: Hubertus Grøftøl
+brewer: Hubertus Bryggeri
+style: Abbey Tripel
+number of ratings: 21
+weighted avg: 3.34
+overall rating: 72
+abv: 8.5%
+calories: 255
+-------------new beer-----------
+beer: Tap East / Celt Experience Scarred Belgian
+brewer: Tap East
+style: Abbey Tripel
+number of ratings: 11
+weighted avg: 3.3
+overall rating: 78
+abv: 7.4%
+calories: 222
+description: 
+        A contemporary Belgian tripel style beer.
+      
+-------------new beer-----------
+beer: St. Bernardus Tripel
+brewer: St. Bernardus Brouwerij
+style: Abbey Tripel
+number of ratings: 2221
+weighted avg: 3.8
+overall rating: 98
+abv: 8%
+calories: 240
+description: 
+         This beer, with high fermentation, has a pale amber colour and a flowery, fruity taste with a harmonious balance between sweet and sour (8% alcohol content).
+This beer has a thick and vivid froth and strikes by its balanced taste with a delicate bitterness.
+      
+-------------new beer-----------
+beer: Sixpoint Tripel
+brewer: Sixpoint Brewery
+style: Abbey Tripel
+number of ratings: 22
+weighted avg: 3.39
+overall rating: 81
+abv: 10.2%
+calories: 306
+-------------new beer-----------
+beer: Dunham Triple XXX (2)
+brewer: Brasserie Dunham
+style: Abbey Tripel
+number of ratings: 62
+weighted avg: 3.67
+overall rating: 96
+abv: 8.5%
+calories: 255
+description: 
+        New version of the Triple XXX, same label (watch for the white sticker on it)!
+
+Belgian Triple inspired, hopped the american way...
+
+Brewed with german pils malt, hopped with Smaragd, Styrian Bobek, Colombus and Amarillo. 
+Dry hopped with Styrian Bobek, Saphir and Amarillo. Unfiltered. Enjoy!
+
+Brassée avec du malt pils allemand et houblonnée avec Smaragd, Styrian Bobek, Colombus et Amarillo.
+Houblonnée à froid avec Styrian Bobek, Saphir et Amarillo. Non-filtrée. Santé!
+      
+-------------new beer-----------
+beer: Hardywood / Trader Joes Hibiscus Tripel
+brewer: Hardywood Park Craft Brewery
+style: Abbey Tripel
+number of ratings: 20
+weighted avg: 3.35
+overall rating: 74
+abv: 8.2%
+calories: 246
+-------------new beer-----------
+beer: Grimbergen Triple 
+brewer: Brouwerijen Alken-Maes (Heineken)
+style: Abbey Tripel
+number of ratings: 479
+weighted avg: 3.37
+overall rating: 75
+abv: 9%
+calories: 270
+-------------new beer-----------
+beer: De Molen Berg & Dal
+brewer: Brouwerij de Molen
+style: Abbey Tripel
+number of ratings: 48
+weighted avg: 3.37
+overall rating: 80
+abv: 10%
+calories: 300
+-------------new beer-----------
+beer: Witkap Pater Tripel
+brewer: Brouwerij Slaghmuylder
+style: Abbey Tripel
+number of ratings: 428
+weighted avg: 3.41
+overall rating: 79
+abv: 7.5%
+calories: 225
+-------------new beer-----------
+beer: De Dolle Dulle Teve 10º (Mad Bitch)
+brewer: De Dolle Brouwers
+style: Abbey Tripel
+number of ratings: 1476
+weighted avg: 3.86
+overall rating: 99
+abv: 10%
+calories: 300
+-------------new beer-----------
+beer: Big Sky Buckin Monk Tripel
+brewer: Big Sky Brewing Company
+style: Abbey Tripel
+number of ratings: 70
+weighted avg: 3.39
+overall rating: 82
+abv: 10.5%
+calories: 315
+-------------new beer-----------
+beer: Szałpiw Szczun
+brewer: Browar Szałpiw
+style: Abbey Tripel
+number of ratings: 188
+weighted avg: 3.8
+overall rating: 98
+abv: 8.1%
+calories: 243
+description: 
+        Cross between a Trippel and an American IPA.
+      
+-------------new beer-----------
+beer: Dicks Belgian Tripel
+brewer: Dicks Brewing Company
+style: Abbey Tripel
+number of ratings: 115
+weighted avg: 3.35
+overall rating: 82
+abv: 9%
+calories: 270
+description: 
+        Golden colored, crisp, high alcohol Belgian-style ale. Simple ingredients lead to a very complex beer in this case. Northwest two-row malt is mashed without the addition of specialty malts for a light, golden color. The wort is lightly hopped in the kettle for minimum bitterness and imported Saaz hops give the beer a subtle, noble hop flavor and aroma. 
+      
+-------------new beer-----------
+beer: Warped Wing Barrel Aged Pirogue
+brewer: Warped Wing Brewing
+style: Abbey Tripel
+number of ratings: 15
+weighted avg: 3.67
+overall rating: 96
+abv: 9%
+calories: 270
+description: 
+        Barrel Aged Coffee Black Tripel
+      
+-------------new beer-----------
+beer: Southampton Triple Abbey-Style Ale
+brewer: Southampton Publick House
+style: Abbey Tripel
+number of ratings: 254
+weighted avg: 3.47
+overall rating: 88
+abv: 8%
+calories: 240
+-------------new beer-----------
+beer: Captain Lawrence Golden Delicious 
+brewer: Captain Lawrence Brewing Company
+style: Abbey Tripel
+number of ratings: 389
+weighted avg: 3.64
+overall rating: 95
+abv: 10%
+calories: 300
+description: 
+        Batch 1 (2008) and Batch 2 (2010) of Captain Lawrences Extra Gold aged in apple brandy barrels. Theres nothing quite likes Moms apple pieBut I am willing to bet this beer is pretty darn close. An American Tripel, dry-hoped with Amarillo hops and aged in Apple Brandy barrels from one of this countrys oldest distilleries. The tropical aroma of the hops and the delicate apple aroma from the barrels are a perfect match
+      
+-------------new beer-----------
+beer: Sly Fox Incubus
+brewer: Sly Fox Brewing Company
+style: Abbey Tripel
+number of ratings: 265
+weighted avg: 3.5
+overall rating: 88
+abv: 10.3%
+calories: 309
+description: 
+        A Tripel in the Abbot style, famed for its powers of seduction. Brewed with German Pils malt and imported Belgian Candi Sugar. Light in body, golden in color, dry and spicy. On tap only on the first Friday of each month and only at Phoenixville. Now available in 750 ml bottles.
+      
+-------------new beer-----------
+beer: Triumph Love Potion Abbey Tripel
+brewer: Triumph Brewing Company
+style: Abbey Tripel
+number of ratings: 43
+weighted avg: 3.38
+overall rating: 86
+abv: 9.5%
+calories: 285
+description: 
+        Belgian ales are famous for their complex flavor, incorporating fruity esters, phenols, and higher alcohols. Our Trippel is a strong pale beer brewed with Belgian candi sugar and fermented with a special strain of yeast.  Served in an eleven-ounce snifter.
+      
+-------------new beer-----------
+beer: Black Husky Beware of Dog Series: Three Scrutineers Tripel
+brewer: Black Husky Brewing
+style: Abbey Tripel
+number of ratings: 10
+weighted avg: 3.45
+overall rating: 84
+abv: 8.3%
+calories: 249
+description: 
+        When the College of Cardinals elects a new Pope, three are chosen to inspect the ballots and they are called the Three Scrutineers. An effervescent and pungent ale, get a bottle and with three friends, scrutinize this beer like Knight ,Poppa and Fish. Pope hats are optional. Warning! This beer has an extreme flavor!
+      
+-------------new beer-----------
+beer: Drakes George Brett Triple
+brewer: Drakes Brewing Company
+style: Abbey Tripel
+number of ratings: 20
+weighted avg: 3.49
+overall rating: 92
+abv: 8.75%
+calories: 262
+description: 
+        A Belgian Triple aged in a Pinot Noir barrel for 2 years. Unblended, unspiked with Brett, yet extremely sour imparted from the barrel itself.
+      
+-------------new beer-----------
+beer: Little Creatures Single Batch The Quiet American
+brewer: Little Creatures Brewing (Lion Co.)
+style: Abbey Tripel
+number of ratings: 35
+weighted avg: 3.45
+overall rating: 91
+abv: 7.2%
+calories: 216
+description: 
+        Driven by a life of humble contemplation, Trappist Monks have quietly been rolling out barrels of rich, full flavoured ales for centuries. While the old world tradition of Trappist Ales continues to influence brewers around the world, a new world order has been bubbling away with bold aromatic US hops playing the headline act. Melding the old and the new worlds, we have introduced rich, sweet malt tones derived from select Belgian specialty malts and fruity Belgian yeast spiked with the addition of classic candied sugar together with the unmistakeable aromatics of new season US Cascade and Chinook hops. A thought provoking bitterness completes a hybrid ale that is contradictive in style - The Quiet American
+      
+-------------new beer-----------
+beer: Great Lakes Tripel Dog Dare
+brewer: Great Lakes Brewing (Ohio)
+style: Abbey Tripel
+number of ratings: 36
+weighted avg: 3.49
+overall rating: 87
+abv: 9.5%
+calories: 285
+description: 
+        Inspired by the rabble-rouser and mischief-maker in all of us, Tripel Dog Dare is a bratty little instigator. Can you handle it? Come on, take a sip. We dare you, you chicken. It takes a special kind of person to appreciate the bold complexity of a Belgian-styleTripel. Is that a challenge youre willing to walk away from? Of course not, you brave adventurer. After all, unlike sticking your tongue to a frozen flagpole, engaging in a violent game of red rover, or chucking snowballs in a frosty battle royal, sipping Tripel Dog Dare offers a much more satisfying reward.
+      
+-------------new beer-----------
+beer: Zero Gravity Ripley Belgian Tripel
+brewer: Zero Gravity Craft Brewery
+style: Abbey Tripel
+number of ratings: 11
+weighted avg: 3.37
+overall rating: 76
+abv: 9.6%
+calories: 288
+description: 
+        A very effervescent, dry Belgian-style strong ale. Brewed with Belgian malt and Candi sugar. Fermented with a blend of Belgian yeast and Brettanomyces to produce a complex fruity and spicy aroma and flavor.
+      
+-------------new beer-----------
+beer: Zundert Trappist
+brewer: Trappistenbrouwerij De Kievit
+style: Abbey Tripel
+number of ratings: 567
+weighted avg: 3.52
+overall rating: 89
+abv: 8%
+calories: 240
+description: 
+        Voor het eerst in 125 jaar opent in Nederland een nieuwe trappistenbrouwerij haar deuren. De naam van het bier is Zundert naar de plaats waar de brouwerij staat. Zundert trappist is een kopergoud bovengistend bier met acht procent alcohol. 
+      
+-------------new beer-----------
+beer: Maltus Faber Triple Hop
+brewer: Maltus Faber
+style: Abbey Tripel
+number of ratings: 10
+weighted avg: 3.67
+overall rating: 96
+abv: 8%
+calories: 240
+-------------new beer-----------
+beer: Green Flash Trippel - Special Cuvee
+brewer: Green Flash Brewing Company
+style: Abbey Tripel
+number of ratings: 30
+weighted avg: 3.52
+overall rating: 90
+abv: 9.3%
+calories: 279
+-------------new beer-----------
+beer: Rock Art Golden Tripple
+brewer: Rock Art Brewery
+style: Abbey Tripel
+number of ratings: 42
+weighted avg: 3.33
+overall rating: 73
+abv: 8%
+calories: 240
+description: 
+        Previously known as "Unnamed Triple". A golden hue and malty body thinned a bit by the 8% abv. In the background is a light handed kettle addition of fresh sliced ginger root. Entertaining suggestions: pair with some flavor packed fruits such as thin mango slices and fresh peeled pineapple wedges. Try an unusual food pairing of a Chinese shrimp lo mein dish. The ginger complements the shrimp and noodles while the 8% abv will refresh your palette. 27 IBUs
+      
+-------------new beer-----------
+beer: Brew By Numbers 14/03 Tripel - Ella
+brewer: Brew By Numbers
+style: Abbey Tripel
+number of ratings: 48
+weighted avg: 3.54
+overall rating: 90
+abv: 9.5%
+calories: 285
+-------------new beer-----------
+beer: Witchs Hat Demon Cleaner
+brewer: Witchs Hat Brewing Company
+style: Abbey Tripel
+number of ratings: 10
+weighted avg: 3.69
+overall rating: 96
+abv: 9.2%
+calories: 276
+description: 
+        Brewed with candi sugar and authentic Trappist yeast.  The perfect elixir to wash away any demons you may possess.
+      
+-------------new beer-----------
+beer: Brewers Art Green Peppercorn Tripel
+brewer: The Brewers Art
+style: Abbey Tripel
+number of ratings: 186
+weighted avg: 3.59
+overall rating: 93
+abv: 10%
+calories: 300
+-------------new beer-----------
+beer: La Gauloise 10 / Triple
+brewer: Brasserie Du Bocq
+style: Abbey Tripel
+number of ratings: 83
+weighted avg: 3.34
+overall rating: 71
+abv: 10%
+calories: 300
+-------------new beer-----------
+beer: Une Année Masquerade
+brewer: Une Année Brewery
+style: Abbey Tripel
+number of ratings: 21
+weighted avg: 3.5
+overall rating: 89
+abv: 8.7%
+calories: 261
+description: 
+        The Une Année take on a Belgian Tripel; Medium Bodied, big fruit flavors and spice with hints of American Hops, Bravo and Willamette poking through.
+      
+-------------new beer-----------
+beer: Dieu du Ciel Rigor Mortis Tripel
+brewer: Dieu du Ciel
+style: Abbey Tripel
+number of ratings: 72
+weighted avg: 3.65
+overall rating: 95
+abv: 10%
+calories: 300
+description: 
+        Blond like a ray of sunlight, crowned by thick foam and sustained by a pronounced effervescence, this beer is the delight of all our customers! Its bouquet is the result of a large array of floral and fruity esters which are complemented by a light and delicate fragrance of malts and hops. The first draught reveals a full-bodied beer with a malty sweetness and a warm touch of alcohol. A hint of acidity is discovered in the aftertaste, but it is quickly overcome by the sharp bitterness of the hops. The Rigor Mortis are complex beers designed and brewed with patience and care in the tradition of the great Belgian Abbey beers.
+      
+-------------new beer-----------
+beer: Shades of Pale Saint Blackout
+brewer: Shades of Pale Brewing Company
+style: Abbey Tripel
+number of ratings: 11
+weighted avg: 3.45
+overall rating: 85
+abv: 8.6%
+calories: 258
+-------------new beer-----------
+beer: Sockeye Big Creek Trappist
+brewer: Sockeye Brewing
+style: Abbey Tripel
+number of ratings: 14
+weighted avg: 3.73
+overall rating: 94
+abv: 6.8%
+calories: 204
+-------------new beer-----------
+beer: Iron Hill American Tripel
+brewer: Iron Hill Maple Shade
+style: Abbey Tripel
+number of ratings: 25
+weighted avg: 3.54
+overall rating: 93
+abv: 9%
+calories: 270
+description: 
+        Traditional Belgian Tripel with an American hop kick. Belgian yeast marries with American hops for a nose and palate full of fruity characters. 
+      
+-------------new beer-----------
+beer: 4 Hands Psycho Killer
+brewer: 4 Hands Brewing Company
+style: Abbey Tripel
+number of ratings: 16
+weighted avg: 3.5
+overall rating: 88
+abv: 9.3%
+calories: 279
+description: 
+        Psycho Killer is a Belgian Tripel aged in bourbon barrels. Along with its counterpart, Three Kings, this beer completes a two-beer series produced in collaboration with Sump Coffee. Delicate notes of fruit and spice blend seamlessly with subtle hints of oak, bourbon, and vanilla. For optimal enjoyment, pair with Three Kings and taste the difference that the addition of Sump Coffee brings to this beer.
+      
+-------------new beer-----------
+beer: Tripel Karmeliet
+brewer: Brouwerij Bosteels (AB-InBev)
+style: Abbey Tripel
+number of ratings: 3378
+weighted avg: 3.93
+overall rating: 99
+abv: 8.4%
+calories: 252
+-------------new beer-----------
+beer: McFate Belgo American Tripel
+brewer: McFate Brewing Company
+style: Abbey Tripel
+number of ratings: 11
+weighted avg: 3.47
+overall rating: 91
+abv: 8.3%
+calories: 249
+-------------new beer-----------
+beer: Schuppenboer Tripel Grand Cru (Cognac BA)
+brewer: Brouwerij Het Nest
+style: Abbey Tripel
+number of ratings: 15
+weighted avg: 3.4
+overall rating: 79
+abv: 10%
+calories: 300
+description: 
+        Schuppenboer Tripel Grand Cru is a full blond beer with an alcohol by volume of 10%, with fruity aroma by adding coriander and Cascade hops. Slightly bitter with spicy after taste. Cognac barrel-aged.
+
+Ingredients: water, barley malt, sugar, coriander herbs, Cascade hops, yeast.
+      
+-------------new beer-----------
+beer: De Molen Heen & Weer (Back & Forth)
+brewer: Brouwerij de Molen
+style: Abbey Tripel
+number of ratings: 452
+weighted avg: 3.58
+overall rating: 92
+abv: 9.2%
+calories: 276
+-------------new beer-----------
+beer: Moon Under Water Belgium Triple Wedding Ale
+brewer: Moon Under Water Brewery
+style: Abbey Tripel
+number of ratings: 12
+weighted avg: 3.33
+overall rating: 74
+abv: 9%
+calories: 270
+-------------new beer-----------
+beer: Westbrook Wine Barrel Tripel - Bella Vigna Pinot Noir
+brewer: Westbrook Brewing
+style: Abbey Tripel
+number of ratings: 45
+weighted avg: 3.5
+overall rating: 92
+abv: 8.5%
+calories: 255
+description: 
+        This beer is the premier offering in a collaborative series between two South Caroliniansone went to California to make wine, the other stayed home to make beer!  We aged this Tripel for 9 months in French oak barrels that were used to mature the 2008 vintage of Whetstone Bella Vigna Pinot Noir.  A refermentation in the bottle creates the tiny bubbles that bring this exciting fusion of the brewers and winemakers crafts to life.
+      
+-------------new beer-----------
+beer: Pizza Port La Flama Dorada
+brewer: Pizza Port (Ocean Beach)
+style: Abbey Tripel
+number of ratings: 11
+weighted avg: 3.33
+overall rating: 74
+abv: 9.6%
+calories: 288
+-------------new beer-----------
+beer: Het Kapittel Watou Abt
+brewer: Van Eecke
+style: Abbey Tripel
+number of ratings: 573
+weighted avg: 3.5
+overall rating: 87
+abv: 10%
+calories: 300
+description: 
+        Bottle conditioned.
+      
+-------------new beer-----------
+beer: Selins Grove Stealth Triple
+brewer: Selins Grove Brewing Co.
+style: Abbey Tripel
+number of ratings: 79
+weighted avg: 3.59
+overall rating: 93
+abv: 8.5%
+calories: 255
+description: 
+        A warming golden Belgian style ale, traditionally brewed by monks. Our Triple is made with Belgian candi sugar and a special Belgian yeast strain. We carefully age it to round out this beer's complex characteristics.
+
+      
+-------------new beer-----------
+beer: Adelardus Trudoabdijbier Haspengouwse Tripel
+brewer: Brouwerij Kerkom
+style: Abbey Tripel
+number of ratings: 192
+weighted avg: 3.36
+overall rating: 73
+abv: 9%
+calories: 270
+-------------new beer-----------
+beer: Fish Tale The Hobbit: Bolg Belgian Style Tripel
+brewer: Fish Brewing Company/Leavenworth Beers
+style: Abbey Tripel
+number of ratings: 47
+weighted avg: 3.33
+overall rating: 71
+abv: 9.5%
+calories: 285
+description: 
+        An Orc chieftain who ruled for 150 years, Bolg would drink his grog of choice and no one would tell him otherwise  a flavorful strong Belgian Tripel. Some said it refined an otherwise gruesome character.
+      
+-------------new beer-----------
+beer: Unibroue Cest Pas La Fin du Monde!
+brewer: Unibroue (Sapporo)
+style: Abbey Tripel
+number of ratings: 17
+weighted avg: 3.47
+overall rating: 87
+abv: 9%
+calories: 270
+description: 
+        Triple épicée vieillie en barriques de chêne.
+      
+-------------new beer-----------
+beer: Lake Louie Brother Tims Tripel
+brewer: Lake Louie Brewing
+style: Abbey Tripel
+number of ratings: 41
+weighted avg: 3.55
+overall rating: 91
+abv: -
+-------------new beer-----------
+beer: Vox Populi Anna (Double Dry Hop Mosaic)
+brewer: Microbrasserie Vox Populi
+style: Abbey Tripel
+number of ratings: 25
+weighted avg: 3.79
+overall rating: 98
+abv: 10%
+calories: 300
+-------------new beer-----------
+beer: Molse Tripel
+brewer: Scheldebrouwerij
+style: Abbey Tripel
+number of ratings: 31
+weighted avg: 3.4
+overall rating: 80
+abv: 8.3%
+calories: 249
+-------------new beer-----------
+beer: Adelberts Tripel B (Bad Boy Brew)
+brewer: Adelberts Brewery
+style: Abbey Tripel
+number of ratings: 88
+weighted avg: 3.38
+overall rating: 76
+abv: 8.5%
+calories: 255
+description: 
+        This complex, straw-colored ale has clove and pear aromas. A marriage of spicy and fruity flavors help perfectly balance its elegant malt profile. Pair with rich foods like steaks, roasts, earthy cheeses, and cheese cake.
+      
+-------------new beer-----------
+beer: Uitzet Tripel
+brewer: Paeleman
+style: Abbey Tripel
+number of ratings: 68
+weighted avg: 3.49
+overall rating: 89
+abv: 6.8%
+calories: 204
+description: 
+        André Paeleman refers to this blond beer with a fruity, bitterish taste, as a "living tripel from 
+Wetteren". It is brewed with pilsener malt, oats, two types of hops and a herb. The name "Uitzet" 
+comes from the beer of the same name that was brewed in 1730 by the publican and brewer Verstraete. 
+      
+-------------new beer-----------
+beer: Tiny Rebel NP10
+brewer: Tiny Rebel
+style: Abbey Tripel
+number of ratings: 64
+weighted avg: 3.32
+overall rating: 70
+abv: 10%
+calories: 300
+description: 
+        Belgian Golden Strong Ale
+      
+-------------new beer-----------
+beer: Ladyface Trois Filles Tripel
+brewer: Ladyface Ale Companie
+style: Abbey Tripel
+number of ratings: 24
+weighted avg: 3.34
+overall rating: 73
+abv: 8.3%
+calories: 249
+description: 
+        A Belgian-style Tripel with a marriage of spicy, fruity and alcohol flavors supported by soft malt character. Although considered a substantial ale, its medium-light body would suggest otherwise due to a high rate of yeast fermentation.
+      
+-------------new beer-----------
+beer: pFriem Belgian Tripel
+brewer: pFriem Family Brewers
+style: Abbey Tripel
+number of ratings: 14
+weighted avg: 3.46
+overall rating: 86
+abv: 9.5%
+calories: 285
+description: 
+        Inspired by traditional Belgian Tripels such as Westmalle Tripel, this beer delivers classic flavor with extra emphasis on the hops. White fluffy head on top of bright golden hues. Aromas of floral grass with hints of pear. Flavors of apricot are finessed with the spiciness from the hops. The palate is left with a zesty earthiness.
+      
+-------------new beer-----------
+beer: Goose Island The Ogden
+brewer: Goose Island Beer Company (AB-InBev)
+style: Abbey Tripel
+number of ratings: 257
+weighted avg: 3.58
+overall rating: 92
+abv: 9%
+calories: 270
+description: 
+        This limited release Belgian style Tripel is dry hopped to balance spicy, tropical American hop flavors with a unique Belgian yeast, giving it a bold more complex palate.
+      
+-------------new beer-----------
+beer: To Øl Panzer Grenadier
+brewer: To Øl
+style: Abbey Tripel
+number of ratings: 101
+weighted avg: 3.64
+overall rating: 95
+abv: 9.1%
+calories: 273
+-------------new beer-----------
+beer: Folly Quesada
+brewer: Folly Brewpub
+style: Abbey Tripel
+number of ratings: 11
+weighted avg: 3.4
+overall rating: 80
+abv: 8.5%
+calories: 255
+description: 
+        Farmhouse Trippel with El Dorado Hops
+      
+-------------new beer-----------
+beer: 5 Seasons Westside Trippel Lindy
+brewer: 5 Seasons Westside
+style: Abbey Tripel
+number of ratings: 14
+weighted avg: 3.42
+overall rating: 89
+abv: 12%
+calories: 360
+-------------new beer-----------
+beer: Nørrebro VårTripel
+brewer: Nørrebro Bryghus
+style: Abbey Tripel
+number of ratings: 100
+weighted avg: 3.63
+overall rating: 95
+abv: 9.7%
+calories: 291
+-------------new beer-----------
+beer: Funky Buddha Tripel Lindy (Chardonnay)
+brewer: Funky Buddha Brewery
+style: Abbey Tripel
+number of ratings: 10
+weighted avg: 3.4
+overall rating: 79
+abv: 11%
+calories: 330
+-------------new beer-----------
+beer: Manayunk Monk from the Yunk
+brewer: Manayunk Brewing Company
+style: Abbey Tripel
+number of ratings: 38
+weighted avg: 3.45
+overall rating: 84
+abv: 9.1%
+calories: 273
+-------------new beer-----------
+beer: Nieuwhuys Alpaïde
+brewer: Nieuwhuys
+style: Abbey Tripel
+number of ratings: 110
+weighted avg: 3.56
+overall rating: 92
+abv: 10%
+calories: 300
+description: 
+        Very dark beer almost black, from this new brewery at the little famous place called Hoegaarden !
+      
+-------------new beer-----------
+beer: Funky Buddha Triple Tripel (Barrel-Aged Triple Lindy)
+brewer: Funky Buddha Brewery
+style: Abbey Tripel
+number of ratings: 14
+weighted avg: 3.45
+overall rating: 85
+abv: 10%
+calories: 300
+-------------new beer-----------
+beer: Tongerlo Prior Tripel
+brewer: Haacht
+style: Abbey Tripel
+number of ratings: 385
+weighted avg: 3.4
+overall rating: 79
+abv: 9%
+calories: 270
+description: 
+        Tongerlo Prior is a full-bodied beer with fruity notes that develop into a spicy and slightly flowery bitterness of hops. An authentic abbey ale, the age-old tradition of the White Canons of Tongerlo lives on in this officially recognised Belgian abbey ale. Re-fermentation in the bottle gives this beer a more intense taste and aroma as well as a longer shelf life. Tongerlo Prior was chosen as the best European blond abbey/trappist ale in the 2011 World Beer Awards.
+      
+-------------new beer-----------
+beer: Dark Horse Sapient Trip Ale
+brewer: Dark Horse Brewing Company
+style: Abbey Tripel
+number of ratings: 639
+weighted avg: 3.37
+overall rating: 75
+abv: 9.5%
+calories: 285
+description: 
+        Why is the Grim Reaper holding a mailbox? Well, that mailbox is from a dead Dark Horse beer. The Grim Reaper better know as "Death" was quite fond of our classic Sapient Summer Wheat Ale.  When we changed it into a Belgian Style Triple, Death thought it would only be appropriate to bring something from that beer into this beer. So he picked the mailbox,  and we werent about to argue with him. You can say what you want about him, but that Death sure has a big heart.
+So anyway...we brewed this beer with a Trappist yeast strain so it is very traditional. The flavors are incredibly complex with notes of mild fruit and finishes with a bit of clove. Although this beer is higher in alcohol it is very  smooth and finishes dry on the palate.
+      
+-------------new beer-----------
+beer: Westmalle Tripel
+brewer: Brouwerij der Trappisten van Westmalle
+style: Abbey Tripel
+number of ratings: 3417
+weighted avg: 3.85
+overall rating: 99
+abv: 9.5%
+calories: 285
+description: 
+        A strong, dry and spicy trappist ale.
+The product of a secondary fermentation lasting 5 weeks. This is a complex ale with a fruity aroma and a nice nuanced hop scent. It is soft and creamy in the mouth, with a bitter touch carried by the fruity aroma. An exceptional ale, with a great deal of finesse and elegance, and with a splendid long after taste.
+      
+-------------new beer-----------
+beer: Glazen Toren Ondineke Oilsjtersen Tripel
+brewer: Kleinbrouwerij De Glazen Toren
+style: Abbey Tripel
+number of ratings: 331
+weighted avg: 3.57
+overall rating: 92
+abv: 8.5%
+calories: 255
+description: 
+        Ondineke is a classic tripel, brewed in the ancient way, again with exclusive natural ingredients: artesian water, malt (barley), hops, yeast and liquid candy sugar. As in the Saison no spices are added.
+Ondineke is an unfiltered top fermenting beer. It is soft, creamy, and of golden color. It is double hopped with the last real hops available from the region of Aalst (The variety is Hallertau Mittelfrüh).
+Ondineke has a positive taste evolution and the bottles are best kept standing in a cool, dark place. It is best before two years after the bottling date.
+8.5 % alc.vol. makes this a beer to be savoured. Preferably Ondineke is to be served at a temperature between 6 to 10° C. Moreover Ondineke is at its best when served in the originally designed Glazen Toren glass.
+      
+-------------new beer-----------
+beer: Lickinghole Creek La Calavera Catrina
+brewer: Lickinghole Creek Craft Brewery
+style: Abbey Tripel
+number of ratings: 20
+weighted avg: 3.59
+overall rating: 93
+abv: 11.3%
+calories: 339
+description: 
+        Tequila Barrel & Lime Zest Tripel.
+      
+-------------new beer-----------
+beer: Oedipus Thai Thai
+brewer: Oedipus
+style: Abbey Tripel
+number of ratings: 163
+weighted avg: 3.46
+overall rating: 84
+abv: 8%
+calories: 240
+description: 
+        In our effort to make a tripel a bit more exciting than most examples out there, we decided to spice it like a Thai dish. Lemongrass, Galangal root, coriander, orange peel and chilli pepper blend in with some exotic latehops in this tripel.
+      
+-------------new beer-----------
+beer: Sierra Nevada Ovila Abbey Tripel
+brewer: Sierra Nevada Brewing Company
+style: Abbey Tripel
+number of ratings: 100
+weighted avg: 3.56
+overall rating: 91
+abv: 8.8%
+calories: 264
+description: 
+        Great Tripels are a testament to the skill of the brewer-monks who created them. Tripels play tricks on the sensesat first glance, they appear delicate and simple, but in reality, the golden color and mild appearance conceal a wealth of complex flavors. Ovila Abbey Tripel is our take on the classic style, with toasty malt sweetness balanced by reserved floral hop notes and complemented by a traditional Belgian abbey yeast. We hope you enjoy this collaboration ale.
+      
+-------------new beer-----------
+beer: Postel Tripel
+brewer: Brouwerij Affligem / De Smedt (Heineken)
+style: Abbey Tripel
+number of ratings: 181
+weighted avg: 3.33
+overall rating: 71
+abv: 9%
+calories: 270
+-------------new beer-----------
+beer: Le Trou du Diable La Buteuse 
+brewer: Le Trou du Diable
+style: Abbey Tripel
+number of ratings: 264
+weighted avg: 3.73
+overall rating: 97
+abv: 10%
+calories: 300
+-------------new beer-----------
+beer: De Proef Knock Out (K-O)
+brewer: De Proefbrouwerij
+style: Abbey Tripel
+number of ratings: 171
+weighted avg: 3.59
+overall rating: 94
+abv: 10%
+calories: 300
+-------------new beer-----------
+beer: Rockmill Cask Aged Tripel
+brewer: Rockmill Brewing Company
+style: Abbey Tripel
+number of ratings: 58
+weighted avg: 3.6
+overall rating: 94
+abv: 10.5%
+calories: 315
+description: 
+        Our traditional Tripel was aged in Middle West Spirits OYO Whiskey Barrels.  This limited batch Tripel reveals the beauty of working together.
+      
+-------------new beer-----------
+beer: Charlevoix Triple à Jack (Bourbon Barrel Aged Triple)
+brewer: Microbrasserie Charlevoix / Le Saint Pub
+style: Abbey Tripel
+number of ratings: 19
+weighted avg: 3.32
+overall rating: 70
+abv: 9.5%
+calories: 285
+description: 
+        Triple vieillie 4 mois en fûts de Jack Daniels.
+      
+-------------new beer-----------
+beer: Felstar Felstar Triple
+brewer: Felstar
+style: Abbey Tripel
+number of ratings: 11
+weighted avg: 3.36
+overall rating: 83
+abv: 9.2%
+calories: 276
+-------------new beer-----------
+beer: Unibroue Eau Bénite
+brewer: Unibroue (Sapporo)
+style: Abbey Tripel
+number of ratings: 620
+weighted avg: 3.49
+overall rating: 88
+abv: 7.7%
+calories: 231
+-------------new beer-----------
+beer: Chama River Menage a Tripel
+brewer: Chama River Brewing Company
+style: Abbey Tripel
+number of ratings: 11
+weighted avg: 3.39
+overall rating: 82
+abv: 8.6%
+calories: 258
+description: 
+        Theres nothing more satisfying to me than a richly complex belgian-style tripel. Dry, yet rich in complexity, strong, yet extremely refreshing. Common, be a little adventurous...you might like it!
+      
+-------------new beer-----------
+beer: Westbrook Wine Barrel Tripel - Malbec
+brewer: Westbrook Brewing
+style: Abbey Tripel
+number of ratings: 22
+weighted avg: 3.45
+overall rating: 91
+abv: 8.5%
+calories: 255
+description: 
+        Purple label. This tripel has been aged for 9 months in American oak barrels that were previously used to mature Malbec grown at Tiger Mountain, Georgia. During the maturation period in our climate controlled barrel room, the beer picks up new flavors from the barrels and their previous contents. The origin of the barrel and the grape varietal it contained both contribute their own nuances.
+
+      
+-------------new beer-----------
+beer: Six Degrees North Tripel
+brewer: Six Degrees North
+style: Abbey Tripel
+number of ratings: 33
+weighted avg: 3.44
+overall rating: 83
+abv: 9%
+calories: 270
+-------------new beer-----------
+beer: Rockingham Three Little Pigs
+brewer: Rockingham Brewing Company
+style: Abbey Tripel
+number of ratings: 10
+weighted avg: 3.62
+overall rating: 94
+abv: 9.2%
+calories: 276
+-------------new beer-----------
+beer: Dupont Avec les Bons Voeux
+brewer: Brasserie Dupont
+style: Abbey Tripel
+number of ratings: 1741
+weighted avg: 3.9
+overall rating: 99
+abv: 9.5%
+calories: 285
+description: 
+        Bons Vux (Good Wishes) is a blond high fermentation beer , re-fermented in the bottle.
+Founded in 1970 , this beer was offered earlier this year to the most loyal customers of our brewery ( hence the name "With the best wishes of the brewery Dupont ").
+The success this beer earned lead to it being made commercially, while retaining its original name. Although very popular, it was brewed in limited quantities, the bottles reserved many months in advance.
+A coppery blond beer with aromas of hops for the Bon Voeux is a beer tasting combining mellow bitterness and fruity.
+Our selection of yeasts and a long maturation phase with hopping gives it flavor and a characteristic and complex taste.
+The true fermentation in the bottle , which can be extended very long in your cellar, resulting in a balanced and harmonious beer, surprising and complex aromas .
+      
+-------------new beer-----------
+beer: Le Cheval Blanc Triple Cheval
+brewer: Le Cheval Blanc
+style: Abbey Tripel
+number of ratings: 9
+weighted avg: 3.32
+overall rating: 3.32
+abv: 9.1%
+calories: 273
+description: 
+        Belgo-american trippel. European pils malt and candi sugar combines with american (Amarillo+Citra) and new-zealand (Hallertau Aroma) hops in this aromatic version of a classic abbey trippel.
+
+Triple belgo-américaine. Malt pils européen et sucre candi se combinent à des houblons américains (Amarillo+Citra) et néo-zélandais (Hallertau Aroma) pour créer une version aromatique de ce classique monastique belge.
+      
+-------------new beer-----------
+beer: J. Wakefield Have You Seen My Stapler?
+brewer: J. Wakefield Brewing
+style: Abbey Tripel
+number of ratings: 15
+weighted avg: 3.38
+overall rating: 78
+abv: 11%
+calories: 330
+-------------new beer-----------
+beer: Pierre Celis Memoirs 
+brewer: Van Den Bossche
+style: Abbey Tripel
+number of ratings: 66
+weighted avg: 3.4
+overall rating: 89
+abv: 8%
+calories: 240
+description: 
+        Fresh, hoppy-fruity aroma. Confident harmony of fruity aromas and flavors: apricot, peach, tangerine. Restrained, delicate, beautifully composed. Firm, crisp, notably long, elegant. Gently spicy, gingery, dryness in finish.
+      
+-------------new beer-----------
+beer: La Trappe Tripel
+brewer: La Trappe Trappist - Abdij O.L.V. Koningshoeven (Bavaria)
+style: Abbey Tripel
+number of ratings: 1641
+weighted avg: 3.61
+overall rating: 94
+abv: 8%
+calories: 240
+-------------new beer-----------
+beer: Kerkomse Tripel
+brewer: Brouwerij Kerkom
+style: Abbey Tripel
+number of ratings: 212
+weighted avg: 3.42
+overall rating: 81
+abv: 9%
+calories: 270
+-------------new beer-----------
+beer: Ottos Abbey Tripel
+brewer: Ottos Pub & Brewery
+style: Abbey Tripel
+number of ratings: 18
+weighted avg: 3.4
+overall rating: 86
+abv: 8.5%
+calories: 255
+description: 
+        A trappist Tripel style ale.  This light colored traditional tripel is made with Pils malt and candi sugar and fermented with the La Chouffe yeast strain.  Esterey and strong best describe this unique specialty beer.
+      
+-------------new beer-----------
+beer: Midnight Sun Panty Peeler
+brewer: Midnight Sun Brewing Company
+style: Abbey Tripel
+number of ratings: 444
+weighted avg: 3.7
+overall rating: 97
+abv: 8.5%
+calories: 255
+-------------new beer-----------
+beer: 5 Seasons Oblivion Tripel
+brewer: 5 Seasons Brewing Company
+style: Abbey Tripel
+number of ratings: 74
+weighted avg: 3.58
+overall rating: 93
+abv: 10.2%
+calories: 306
+description: 
+        5 Season's special brew originally made to celebrate July 1, 2004 (the date Georgia officially lifted the limit on alcohol in beer). A classic, light-colored but full-bodied and complex beer in the Trappist/Abbey style.
+      
+-------------new beer-----------
+beer: Faction Defcon II Tripel
+brewer: Faction Brewing
+style: Abbey Tripel
+number of ratings: 17
+weighted avg: 3.38
+overall rating: 76
+abv: 7.3%
+calories: 219
+description: 
+        A traditional Belgian style Tripel brewed with Belgian 2-row and German Munich malt and Saaz hops. 
+      
+-------------new beer-----------
+beer: Gouden Carolus Tripel
+brewer: Brouwerij Het Anker
+style: Abbey Tripel
+number of ratings: 1383
+weighted avg: 3.76
+overall rating: 98
+abv: 9%
+calories: 270
+description: 
+        In spite of modern brewing technology, this beer is brewed according to ancient traditions. It unites, now as in the past, the best products of our soil: rich barley and fine hops.. 
+
+Its refined character, with a pure and rich taste, will captivate you. It is matured at length in cellar and bottle, and is guaranteed to be brewed only from pale malts. It is traditionally top-fermented and is 100% pure. The Gouden Carolus Triple has a unique colour and a full flavour due to its well-balanced hopping. 
+
+To properly savour the Golden Carolus Triple, pour slowly in one movement leaving the yeast deposit in the bottle. This beer may be served cool but not chilled: 7-8°C is recommended. 
+
+In 2002 this beer won the Gold Award in the World Beer Cup, San Diego, USA in the Triple category.
+      
+-------------new beer-----------
+beer: Middleton Belgian Tripel
+brewer: Middleton Brewing
+style: Abbey Tripel
+number of ratings: 13
+weighted avg: 3.31
+overall rating: 73
+abv: 9.6%
+calories: 288
+-------------new beer-----------
+beer: Tröegs Naked Elf
+brewer: Tröegs Brewing Company
+style: Abbey Tripel
+number of ratings: 140
+weighted avg: 3.56
+overall rating: 92
+abv: 6.8%
+calories: 204
+description: 
+        Naked Elf takes a hard look at the less-is-more theory. Ever since we developed The Mad Elf, weve speculated what it would taste like without the cherries and honey.
+
+So what lies beneath the fruit? Naked Elf is unfiltered, so the spicy yeast taste is more prominent in this strong, hazy orange ale. The combination of the Pilsner, and Vienna malts give a lot of body and minimal sweetness, but Naked Elf has a dry finish. Finally, the heat of the alcohol makes its presence known in the finish.
+
+The Naked Elfs finest quality is the delicate balancing act between a lively yeast kick and a slight alcohol note that lingers in the back of the mouthconstantly reminding us not to overindulge in this complex, warming elixir.
+      
+-------------new beer-----------
+beer: Du Lac Saint-Jean Tante Tricotante (Chardonnay)
+brewer: Microbrasserie du Lac Saint-Jean
+style: Abbey Tripel
+number of ratings: 56
+weighted avg: 3.73
+overall rating: 97
+abv: 10%
+calories: 300
+description: 
+        Vieillit en fût de Chardonnay des vieux pays, notre triple a mis son tricot des grands jours : fine acidité, moelleux atypique, le tout bouclé par un élégant fruité datocas et de petits fruits.
+      
+-------------new beer-----------
+beer: Brew By Numbers 12/05 Barrel Aged - Tripel
+brewer: Brew By Numbers
+style: Abbey Tripel
+number of ratings: 19
+weighted avg: 3.54
+overall rating: 91
+abv: 9.6%
+calories: 288
+description: 
+        Tripel with mozaic hops. Aged in Burgundy white wine barrels.
+      
+-------------new beer-----------
+beer: Tröegs LaGrave
+brewer: Tröegs Brewing Company
+style: Abbey Tripel
+number of ratings: 176
+weighted avg: 3.63
+overall rating: 94
+abv: 8%
+calories: 240
+description: 
+        Inspired by natures untamed beauty, LaGrave (pronounced \l?-gräv\) is the first of our 12.7-oz. corked and caged bottle releases. Bottle conditioned and highly carbonated, this Triple Golden Ale is steeped in the tradition of strong ales originally brewed in Belgium. The unique Belgian yeast forms the bedrock of LaGraves complex flavors. Strong and alluring at 8% ABV, LaGrave boasts a sweet, fruity flavor with a well-rounded mouthfeel and semi-dry, lingering bitter finish.
+      
+-------------new beer-----------
+beer: Cambridge Tripel Threat
+brewer: Cambridge Brewing Company
+style: Abbey Tripel
+number of ratings: 128
+weighted avg: 3.44
+overall rating: 84
+abv: 10%
+calories: 300
+description: 
+        Arriving in time to greet the new year is our deceptively efficacious Belgian strong ale. Golden-straw color, effervescent condition, and commingling flavors and aromas of curacao orange, coriander, yeasty fruit esters and phenols, a subtle malt base, and a warming, slightly hoppy finish. Served proudly in its own tulip-shaped glass, this perennial was the first Belgian-style beer produced in American craft-brewing history according to the beer Hunter, Michael Jackson. Dont miss it!
+      
+-------------new beer-----------
+beer: Almond 22 Hibernum
+brewer: Almond 22
+style: Abbey Tripel
+number of ratings: 16
+weighted avg: 3.34
+overall rating: 74
+abv: 9%
+calories: 270
+-------------new beer-----------
+beer: Les Brasseurs du Temps Trois Portages vieilli en fût de Pinot Noir 
+brewer: Les Brasseurs du Temps
+style: Abbey Tripel
+number of ratings: 12
+weighted avg: 3.59
+overall rating: 93
+abv: 9%
+calories: 270
+-------------new beer-----------
+beer: Chouffe Houblon Dobbelen IPA Tripel
+brewer: Brasserie dAchouffe  (Duvel-Moortgat)
+style: Abbey Tripel
+number of ratings: 2444
+weighted avg: 3.85
+overall rating: 99
+abv: 9%
+calories: 270
+description: 
+        A unique marriage between the English tradition of IPAs, the new American revolution of Imperial IPAs and the classic Belgian way of brewing.
+Houblon Chouffe, although very much hopped as it is, showcases the unique balance between a very strong IPA and a very special Belgian Tripel exclusively created for this ale (Big malty body, distinct dryness, expressive estery fruitiness). - IBU: 59, Original Gravity: 1092
+
+      
+-------------new beer-----------
+beer: Allagash Tripel Reserve
+brewer: Allagash Brewing Company
+style: Abbey Tripel
+number of ratings: 1403
+weighted avg: 3.87
+overall rating: 99
+abv: 9%
+calories: 270
+description: 
+        This golden hued ale is marked by passion fruit and herbal notes in the aroma, with subtle suggestions of banana and honey surfacing from its deep and complex palate. The Tripel's finish is remarkably long and soothing.
+      
+-------------new beer-----------
+beer: Slaapmutske Tripel (Triple Nightcap)
+brewer: Brouwerij Slaapmutske
+style: Abbey Tripel
+number of ratings: 438
+weighted avg: 3.46
+overall rating: 85
+abv: 8.1%
+calories: 243
+description: 
+        Brewed by Proefbrouwerij by recipe of Slaapmutske.
+      
+-------------new beer-----------
+beer: Wäls Trippel
+brewer: Cervejaria Wäls (AB InBev)
+style: Abbey Tripel
+number of ratings: 57
+weighted avg: 3.63
+overall rating: 94
+abv: 9%
+calories: 270
+description: 
+         Cerveja do estilo Belgian Strong Ale Trippel, de cor alaranjada, espuma densa e duradoura. Elaborada com maltes, leveduras e lúpulos especiais, coentro,casca de laranja e outras especiarias. Aromas cítricos, paladar frutado e condimentado. Refermentada na garrafa com 9 % de Alccol.
+
+ 
+
+Harmoniza com carnes brancas, molhos condimentados , queijos azuis e sobremesas com toques cítricos.
+      
+-------------new beer-----------
+beer: Swamp Head Batch 300 Tripel Belgian Style Ale
+brewer: Swamp Head Brewery
+style: Abbey Tripel
+number of ratings: 17
+weighted avg: 3.39
+overall rating: 86
+abv: 7%
+calories: 210
+-------------new beer-----------
+beer: Bridge Road / Nøgne Ø Aurora Australis II
+brewer: Bridge Road Brewers
+style: Abbey Tripel
+number of ratings: 92
+weighted avg: 3.62
+overall rating: 94
+abv: 11%
+calories: 330
+description: 
+        In Norwegian tradition alcoholic beverages are sent across the globe to
+benefit from the temperature variations and climate changes experienced
+when crossing the equator. This Belgian tripel was brewed at Bridge Road
+Brewers in Beechworth, Australia. Maturation took place in Australian Port
+barrels on its journey to Norway. Blending and packaging
+was carried out by Nøgne Ø.
+      
+-------------new beer-----------
+beer: Rockmill Tripel
+brewer: Rockmill Brewing Company
+style: Abbey Tripel
+number of ratings: 51
+weighted avg: 3.49
+overall rating: 88
+abv: 9%
+calories: 270
+description: 
+        Organic golden ale.
+      
+-------------new beer-----------
+beer: Stewarts Stumblin Monk Abbey Tripel
+brewer: Stewarts Brewing Company
+style: Abbey Tripel
+number of ratings: 29
+weighted avg: 3.42
+overall rating: 88
+abv: 9.2%
+calories: 276
+description: 
+        A beer any Monk would be proud to call their own. Our award winning Belgian-style Golden Ale is high in alcohol with a flavor that is fruity and complex. A cult favorite here at Stewart's prompting the eternal questionGot Monk? 
+      
+-------------new beer-----------
+beer: Zonderik Cuvée 
+brewer: Zonderik / Columbus Management
+style: Abbey Tripel
+number of ratings: 20
+weighted avg: 3.43
+overall rating: 82
+abv: 10.5%
+calories: 315
+description: 
+        Special edition. Aged for 8 months on 30 year old brandy barrels.
+      
+-------------new beer-----------
+beer: Nebraska HopAnomaly
+brewer: Nebraska Brewing Company
+style: Abbey Tripel
+number of ratings: 164
+weighted avg: 3.6
+overall rating: 93
+abv: 9.3%
+calories: 279
+-------------new beer-----------
+beer: Le Castor Sanctuaire Grande Réserve (fûts de vin rouge)
+brewer: Microbrasserie Le Castor - Le Castor Brewing Co.
+style: Abbey Tripel
+number of ratings: 56
+weighted avg: 3.53
+overall rating: 91
+abv: 9%
+calories: 270
+description: 
+        La Triple dabbaye, popularisée depuis des décennies par les moines Trappistes, est lune des plus puissantes, élégantes et redoutables bières provenant de Belgique. Nous brassons la nôtre avec 100% de malt pale et une levure belge qui apporte des esters fruités ainsi quun côté épicé subtil sur une finale sèche. Cette bière étant parfaite pour notre série en barrique, nous avons décidé de la faire vieillir dans des barils de vins rouges, incluant les cépages Pinot Noir, Merlot et Cabernet Sauvignon. /////  The Abbey Tripel, popularized for decades by Trappist breweries, is one of the strongest, most elegant and dangerously drinkable beer styles to come from Belgium.  We brewed ours with 100% pale malt, and two different Belgian yeast strains that contribute fruity esters and subtle spicy phenolics, as well as a dry finish.  A beer like this is a perfect fit for our barrel aging program, so we chose to age it in a mix of red wine barrels, including Pinot Noir, Merlot and Cabernet Sauvignon.  
+      
+-------------new beer-----------
+beer: Funky Buddha Tripel Lindy
+brewer: Funky Buddha Brewery
+style: Abbey Tripel
+number of ratings: 38
+weighted avg: 3.32
+overall rating: 69
+abv: 9.3%
+calories: 279
+-------------new beer-----------
+beer: Red Rock Triple Reve
+brewer: Red Rock Brewing
+style: Abbey Tripel
+number of ratings: 34
+weighted avg: 3.31
+overall rating: 74
+abv: 11.66%
+calories: 350
+description: 
+        Aged 2 years in Port oak casks then innoculated with brettanomyces.
+      
+-------------new beer-----------
+beer: FiftyFifty Trifecta (Elijah Craig 12 Year Barrel)
+brewer: FiftyFifty Brewing Company
+style: Abbey Tripel
+number of ratings: 9
+weighted avg: 3.35
+overall rating: 3.35
+abv: 11%
+calories: 330
+description: 
+        We took Trifecta, our Belgian-style triple, and aged it in Elijah Craig 12yr whiskey barrels for 6 months. The complex spiciness and mild malt sweetness matured and became more rich as it aged, and the finished product can only be described as delicious.
+      
+-------------new beer-----------
+beer: Great Lakes Brewery X Nickel Brook Creepy Bitch
+brewer: Great Lakes Brewery (Ontario)
+style: Abbey Tripel
+number of ratings: 18
+weighted avg: 3.42
+overall rating: 88
+abv: 9%
+calories: 270
+description: 
+        Belgian tripel with blood orange and rose petals
+      
+-------------new beer-----------
+beer: Side Launch Belgian Hat Trick
+brewer: Side Launch Brewing Company
+style: Abbey Tripel
+number of ratings: 12
+weighted avg: 3.53
+overall rating: 92
+abv: 8.5%
+calories: 255
+-------------new beer-----------
+beer: Les 3 Brasseurs La Triple
+brewer: Les 3 Brasseurs
+style: Abbey Tripel
+number of ratings: 44
+weighted avg: 3.32
+overall rating: 69
+abv: 7.9%
+calories: 237
+-------------new beer-----------
+beer: Sweetwater 18 - Belgian-Style Tripel
+brewer: Sweetwater Brewing Company
+style: Abbey Tripel
+number of ratings: 32
+weighted avg: 3.46
+overall rating: 87
+abv: 10%
+calories: 300
+description: 
+
+-------------new beer-----------
+beer: Bear Republic Tripels Alley
+brewer: Bear Republic Brewing Company
+style: Abbey Tripel
+number of ratings: 20
+weighted avg: 3.36
+overall rating: 74
+abv: 8.5%
+calories: 255
+description: 
+        Named for an infamous corner of the San Francisco Giants ballpark, this Belgian-style Tripel is malty with a spicy yeast and hop character.
+      
+-------------new beer-----------
+beer: The Livery Trappist Trippel
+brewer: The Livery
+style: Abbey Tripel
+number of ratings: 10
+weighted avg: 3.51
+overall rating: 85
+abv: 10.5%
+calories: 315
+description: 
+        This reddish brown beer has all the familiar Belgian flavors in abundance: clove, banana, figs, raisins, leather, and finishes with a nice balance of noble hops. 
+
+      
+-------------new beer-----------
+beer: Stewarts 8
+brewer: Stewart Brewing
+style: Abbey Tripel
+number of ratings: 20
+weighted avg: 3.32
+overall rating: 80
+abv: 8%
+calories: 240
+description: 
+        Brewed to celebrate the 8th birthday of Stewart Brewing - an 8% Belgian-style tripel
+      
+-------------new beer-----------
+beer: MONYO Belgian Trip
+brewer: MONYO Brewing Co.
+style: Abbey Tripel
+number of ratings: 16
+weighted avg: 3.41
+overall rating: 80
+abv: 10%
+calories: 300
+description: 
+        Belgian trippel with 3 diff. yeast. Classic.
+      
+-------------new beer-----------
+beer: De Ryck Arend Tripel
+brewer: Brouwerij De Ryck
+style: Abbey Tripel
+number of ratings: 295
+weighted avg: 3.41
+overall rating: 80
+abv: 8%
+calories: 240
+-------------new beer-----------
+beer: To Øl Grenadier
+brewer: To Øl
+style: Abbey Tripel
+number of ratings: 124
+weighted avg: 3.45
+overall rating: 86
+abv: 9.1%
+calories: 273
+description: 
+        We bring to you a 1-2-3 tripel. Single malt, double hopped (Amarillo/Tettnanger) tripel yeast. Brewed with pomegranate to make this a one dry, tart, fruity tripel.
+      
+-------------new beer-----------
+beer: Espace Houblon Triple Galaxy
+brewer: Brasseurs Illimités
+style: Abbey Tripel
+number of ratings: 11
+weighted avg: 3.5
+overall rating: 89
+abv: 9.65%
+calories: 290
+description: 
+        Brewed for Espace Houblons second anniversary, Galaxy hopped triple. 
+      
+-------------new beer-----------
+beer: Keyte Ostêns Belegeringsbier
+brewer: Brouwerij Strubbe
+style: Abbey Tripel
+number of ratings: 152
+weighted avg: 3.33
+overall rating: 70
+abv: 7.5%
+calories: 225
+-------------new beer-----------
+beer: River North Tripel
+brewer: River North Brewery
+style: Abbey Tripel
+number of ratings: 13
+weighted avg: 3.3
+overall rating: 81
+abv: 9.2%
+calories: 276
+description: 
+        Imperial Belgian-style golden ale. Were no monestary 
+      
+-------------new beer-----------
+beer: Cazeau Tournay Triple
+brewer: Brasserie de Cazeau
+style: Abbey Tripel
+number of ratings: 109
+weighted avg: 3.42
+overall rating: 81
+abv: 9.2%
+calories: 276
+description: 
+        "Tournay Triple is seductively strong 
+Triple beers traditionally contain more malt, and are therefore stronger. But the original idea behind Tournay Triple was to produce a very hopped beer rather than a strong one.
+When creating all our beers, we want to preserve a balance between the tastes and to ensure that each ingredient can be expressed without crushing the others. To respond to the bitterness of the hops, we therefore had to brew a solidly-built beer, whence the choice of a high alcohol content (more than 9% ABV).
+Although we had quickly succumbed to the very particular flavours of the New Zealand hop, Nelson Sauvin, many tests were necessary to find the right marriage with other hops, including the English Fuggles, and Cascade, which is the hallmark of all our beers except for Saison.
+The perfecting of our Triple was therefore a labour of Hercules but it was well worth the trouble!"
+      
+-------------new beer-----------
+beer: Idle Hands Craft Ales Triplication - Bourbon Barrel Aged
+brewer: Idle Hands Craft Ales
+style: Abbey Tripel
+number of ratings: 9
+weighted avg: 3.39
+overall rating: 3.39
+abv: -
+-------------new beer-----------
+beer: Malmgård Amarillo Tripel
+brewer: Malmgårdin Panimo - Malmgard Brewery
+style: Abbey Tripel
+number of ratings: 22
+weighted avg: 3.48
+overall rating: 86
+abv: 9%
+calories: 270
+description: 
+        Tämä kullankeltainen Tripel-tyylinen ale löytyy Alkon käsityöläisolutvalikoimasta helmikuussa. Tuote on aromihumaloitu Amarillo-humalalla. Tuoksussa sitrushedelmäisyyttä ja mausteisuutta. Täyteläinen, kuivan mausteinen ja lämmittävä makukokonaisuus.
+      
+-------------new beer-----------
+beer: Real Ale Devils Backbone
+brewer: Real Ale Brewing Company
+style: Abbey Tripel
+number of ratings: 285
+weighted avg: 3.6
+overall rating: 93
+abv: 8.1%
+calories: 243
+description: 
+         Named for the scenic ridge that runs between Blanco and Wimberly, Devil's Backbone is a Belgian-style trippel. Brewed in the traditional manner, Czech Saaz hops and Belgian yeast give this ale its distinctive flavor and aroma. Candy sugar made in-house at the brewery adds strength without increasing heaviness. The result is a deceptively strong, pale golden ale.
+ABV: 8.1%, IBU: 36, OG(plato): 18
+
+
+      
+-------------new beer-----------
+beer: Three Notchd Brother Barnabas Belgian Tripel
+brewer: Three Notchd Brewing Company
+style: Abbey Tripel
+number of ratings: 15
+weighted avg: 3.39
+overall rating: 78
+abv: 9.1%
+calories: 273
+description: 
+        Virginia is home to 1 of only 6 Belgian Monasteries in the country. Brother Barnabas is one of the oldest, living monks there.
+
+The true champagne of beers, this lightly colored, medium bodied Belgian-style Tripel is crisp, refreshing, and highly carbonated with fruity Belgian esters that give a great pear skin, apple, citrus-like profile.
+      
+-------------new beer-----------
+beer: Perennial Woodside
+brewer: Perennial Artisan Ales
+style: Abbey Tripel
+number of ratings: 83
+weighted avg: 3.54
+overall rating: 91
+abv: 9.1%
+calories: 273
+description: 
+        Woodside Tripel is bright, crisp Belgian-style Tripel brewed with local Woodside Urban Honey from Maplewood, Missouri.
+      
+-------------new beer-----------
+beer: Zipline American Tripel
+brewer: Zipline Brewing Company
+style: Abbey Tripel
+number of ratings: 10
+weighted avg: 3.34
+overall rating: 72
+abv: 7.8%
+calories: 234
+-------------new beer-----------
+beer: Dragonmead Killer Bee
+brewer: Dragonmead Brewery
+style: Abbey Tripel
+number of ratings: 16
+weighted avg: 3.41
+overall rating: 84
+abv: 10%
+calories: 300
+description: 
+        Belgian-style Trippel brewed with Michigan Honey in place of Belgian candy sugar. Bronze medal winner in the 2012 World Beer Cup.
+      
+-------------new beer-----------
+beer: Le Castor Le Moine Féral
+brewer: Microbrasserie Le Castor - Le Castor Brewing Co.
+style: Abbey Tripel
+number of ratings: 44
+weighted avg: 3.45
+overall rating: 84
+abv: 8%
+calories: 240
+description: 
+        Fermented with yeast isolated from a Belgian monastic brewery, this strong abbey-style beer is hopped with varieties from both the Pacific Northwest and Europe.  The beer then undergoes several months of bottle aging with two strains of Brettanomyces wild yeast, including a local Quebec strain.  The resulting beer is drier than a typical Belgian abbey beer, and has additional complexity in both aroma and flavour courtesy of the wild yeast.  ///////////  Fermentée avec une levure provenant dune brasserie monastique belge, cette bière forte dAbbaye est houblonnée avec des houblons de la côte Ouest américaine et dEurope. Cette bière a subi un vieillissement de quelques mois en bouteille avec deux souches de levures Brettanomyces, dont lune est québécoise. Il en résulte une bière plus sèche que les bières dAbbaye, plus complexe en arômes et en saveurs, et ce, grâce aux levures sauvages.
+
+      
+-------------new beer-----------
+beer: Schans Tripel
+brewer: Brouwerij de Schans
+style: Abbey Tripel
+number of ratings: 27
+weighted avg: 3.37
+overall rating: 79
+abv: 8.5%
+calories: 255
+-------------new beer-----------
+beer: À lAbri de la Tempête Palabre 15 - Belle Triple
+brewer: À lAbri de la Tempête
+style: Abbey Tripel
+number of ratings: 10
+weighted avg: 3.42
+overall rating: 81
+abv: 8%
+calories: 240
+-------------new beer-----------
+beer: Weird Beard / Northern Monk Brew Bad Habit
+brewer: Weird Beard
+style: Abbey Tripel
+number of ratings: 44
+weighted avg: 3.43
+overall rating: 85
+abv: 8.6%
+calories: 258
+-------------new beer-----------
+beer: Hopfenstark Faust Triple
+brewer: Hopfenstark
+style: Abbey Tripel
+number of ratings: 41
+weighted avg: 3.5
+overall rating: 89
+abv: 9%
+calories: 270
+-------------new beer-----------
+beer: Hailstorm Crash Test Dummy
+brewer: Hailstorm Brewing Co.
+style: Abbey Tripel
+number of ratings: 9
+weighted avg: 3.37
+overall rating: 3.37
+abv: 9.7%
+calories: 291
+-------------new beer-----------
+beer: Mother Earth Barrel Aged Tripel Over Head
+brewer: Mother Earth Brewing Company
+style: Abbey Tripel
+number of ratings: 70
+weighted avg: 3.53
+overall rating: 90
+abv: 9%
+calories: 270
+-------------new beer-----------
+beer: Charlevoix Dominus Vobiscum Triple
+brewer: Microbrasserie Charlevoix / Le Saint Pub
+style: Abbey Tripel
+number of ratings: 361
+weighted avg: 3.73
+overall rating: 97
+abv: 9%
+calories: 270
+description: 
+        Inspired by belgium monks heritage. Brewed using yeast that keeps working in bottle. We recommend waiting a good month after the first batch is bottled (august 2003) before tasting it. Keep in a dark and cool place and use a tulip glass.
+      
+-------------new beer-----------
+beer: La Succursale Triple de la Reine
+brewer: La Succursale
+style: Abbey Tripel
+number of ratings: 15
+weighted avg: 3.37
+overall rating: 78
+abv: 8.5%
+calories: 255
+description: 
+        Cest une bière dinspiration monastique qui titre 8,5 % dalcool. Sa particularité principale: elle est fabriquée avec une bonne proportion de miel de la compagnie Bee api qui récolte le miel à partir de ses ruches installées sur le toit des Locoshop Angus, dans le quartier Rosemont. Oui, du miel de Montréal!
+
+La Triple de la reine est une blonde offrant une bonne présence dalcool, darômes de fruits jaunes et dépices, de coco et de miel. Sa finale est sucrée et soutenue par une légère amertume. Nous vous laissons juger par vous-même du résultat mais gageons que vous aurez la piqûre!
+      
+-------------new beer-----------
+beer: Dark Horse Homo Sapien Cherry Trip Ale
+brewer: Dark Horse Brewing Company
+style: Abbey Tripel
+number of ratings: 24
+weighted avg: 3.45
+overall rating: 85
+abv: 9.5%
+calories: 285
+description: 
+        Sapient Trip Ale with cherries; over 9.5% according to the staff.
+      
+-------------new beer-----------
+beer: Brewfist One Way TripHell
+brewer: Brewfist
+style: Abbey Tripel
+number of ratings: 72
+weighted avg: 3.35
+overall rating: 73
+abv: 9.5%
+calories: 285
+description: 
+        Malti: Pilsner, Munich, White Candy Sugar.
+Luppoli: Mosaic, Sterling, Centennial. 
+      
+-------------new beer-----------
+beer: Anchorage The Tide and Its Takers Triple
+brewer: Anchorage Brewing Company
+style: Abbey Tripel
+number of ratings: 383
+weighted avg: 3.86
+overall rating: 99
+abv: 9%
+calories: 270
+description: 
+        Brewed with Sorachi Ace and Styrian Golding Hops. Aged in French Oak Chardonnay barrels with brettanomyces. Triple Fermented. 
+      
+-------------new beer-----------
+beer: Little Brewing Breaking the Cardinal Rule 
+brewer: The Little Brewing Company
+style: Abbey Tripel
+number of ratings: 20
+weighted avg: 3.47
+overall rating: 85
+abv: 9.5%
+calories: 285
+description: 
+        Hoppy Belgian Tripel.
+      
+-------------new beer-----------
+beer: Two Brothers Oh Brother! Tripel Ale
+brewer: Two Brothers Brewing Company
+style: Abbey Tripel
+number of ratings: 135
+weighted avg: 3.35
+overall rating: 83
+abv: 9.1%
+calories: 273
+description: 
+        OH BROTHER! is one of a series of special limited-run beers in styles that are more extreme or unusual. <P>This crisp, straw-colored ale is blessed with a host of spicy and fruity aromas.  We brew it from pilsener malt, candy sugar and some very non-traditional hop choices.  But hey, we never said we were monks.  Were just brothers.
+      
+-------------new beer-----------
+beer: Mikkeller Trippel A 
+brewer: Mikkeller
+style: Abbey Tripel
+number of ratings: 50
+weighted avg: 3.51
+overall rating: 89
+abv: 9%
+calories: 270
+description: 
+        Brand new Trippel A, a bright mix of sweet malt and fruity notes on the nose combined with a palate that is both sweet and bitter with a touch of spice, caramel and orange peel.
+      
+-------------new beer-----------
+beer: Durham Bedes Chalice
+brewer: Durham
+style: Abbey Tripel
+number of ratings: 124
+weighted avg: 3.52
+overall rating: 89
+abv: 9%
+calories: 270
+-------------new beer-----------
+beer: Weird Beard / Northern Monk Bad Habit (Barrel aged)
+brewer: Weird Beard
+style: Abbey Tripel
+number of ratings: 19
+weighted avg: 3.34
+overall rating: 81
+abv: 8.6%
+calories: 258
+-------------new beer-----------
+beer: Le Cheval Blanc Triple (de Mars)
+brewer: Le Cheval Blanc
+style: Abbey Tripel
+number of ratings: 23
+weighted avg: 3.37
+overall rating: 86
+abv: 9.3%
+calories: 279
+description: 
+        Une triple "twistée"!!!
+Bière spéciale en lhonneur du jazz davant-garde montréalais!
+Dinspiration belge avec la touche Cheval Blanc, cette triple se présente sous des couleurs marsienne. Orange fonçé avec un généreux col, résultat de la refermentation en barils. Effervescence naturelle!
+9,3-9,5% alc./vol.
+À boire avec modération...
+
+A twisted Trippel!!!
+Special beer for the celebration of Avant-guarde jazz in Montreal.
+Belgian inspiration with the Cheval Blanc touch.
+Pours a dark orange brew with a thick foamy head, result from refermentation in barrels.
+Natural carbonation, unfiltered. 
+9,3-9,5% alc./vol.
+Drink with moderation... 
+
+
+      
+-------------new beer-----------
+beer: Zakładowy Towar Luksusowy
+brewer: Browar Zakładowy
+style: Abbey Tripel
+number of ratings: 13
+weighted avg: 3.46
+overall rating: 85
+abv: 8.7%
+calories: 261
+-------------new beer-----------
+beer: Bastone Nectar des Dieux Triple
+brewer: Bastone Brewery
+style: Abbey Tripel
+number of ratings: 11
+weighted avg: 3.46
+overall rating: 88
+abv: 9%
+calories: 270
+description: 
+        A Belgian-style strong golden ale with light fruity notes and a hint of sweetness
+      
+-------------new beer-----------
+beer: Tuatara Belgian Tripel
+brewer: Tuatara Brewing Company
+style: Abbey Tripel
+number of ratings: 20
+weighted avg: 3.53
+overall rating: 90
+abv: 8.5%
+calories: 255
+-------------new beer-----------
+beer: Ranger Creek TRES
+brewer: Ranger Creek Brewing & Distilling
+style: Abbey Tripel
+number of ratings: 10
+weighted avg: 3.41
+overall rating: 84
+abv: 7.5%
+calories: 225
+description: 
+        TRES is the name of our special seasonal that celebrates our 3 year anniversary. This Belgian Tripel is 7.5% ABV and pours a deep gold color. The nose is a complex marriage of citrus fruit, clove, and a floral sweetness. The taste is sweet and complex with a soft malt character that fades into a subtle, quick succession of lemon zest and spicy hops. The finish is dry and clean with a light, lingering complexity that prompts another sip. TRES is a little sneaky as the ABV is impossible to perceive by taste alone. Its a beer that were proud to use to celebrate our 3rd birthday, and we hope youll join us in enjoying a glass!
+      
+-------------new beer-----------
+beer: Affligem Tripel
+brewer: Brouwerij Affligem / De Smedt (Heineken)
+style: Abbey Tripel
+number of ratings: 1088
+weighted avg: 3.63
+overall rating: 94
+abv: 9.5%
+calories: 285
+description: 
+        The king of the abbey beers. It is amber-gold and pours with a deep head and original aroma, delivering a complex, full bodied flavour. Pure enjoyment! Secondary fermentation in the bottle. (Temp: 8-10ºC)
+      
+-------------new beer-----------
+beer: Mother Earth Tripel Over Head
+brewer: Mother Earth Brewing Company
+style: Abbey Tripel
+number of ratings: 54
+weighted avg: 3.36
+overall rating: 75
+abv: 9%
+calories: 270
+description: 
+        Weve crafted our Belgian-Style Tripel with honor to the Belgian Trappist Monks who perfected this notoriously smooth and balanced brew and leaked the secret to outsiders just a half century ago. This is a complex sipping beer that offers amazing zest yet finishes smooth and sweet. 
+      
+-------------new beer-----------
+beer: Géants Gouyasse Tripel (Triple)
+brewer: Brasserie des Géants (Brasserie des Légendes)
+style: Abbey Tripel
+number of ratings: 521
+weighted avg: 3.48
+overall rating: 87
+abv: 9%
+calories: 270
+-------------new beer-----------
+beer: Trignac XII
+brewer: Brouwerij Van Honsebrouck
+style: Abbey Tripel
+number of ratings: 114
+weighted avg: 3.43
+overall rating: 82
+abv: 12%
+calories: 360
+-------------new beer-----------
+beer: St-Feuillien Triple
+brewer: Brasserie St-Feuillien / Friart
+style: Abbey Tripel
+number of ratings: 1117
+weighted avg: 3.72
+overall rating: 97
+abv: 8.5%
+calories: 255
+description: 
+        This beer has a white, smooth and very compact head. Its pale amber colour is very characteristic revealing a distinctive maltiness. It has a rich aroma with a unique combination of aromatic hops, spices and the typical bouquet of fermentation - very fruity. Secondary fermentation in the bottle gives it a unique aroma due to the presence of yeast. St Feuillien Triple has a very strong and exceptionally lingering taste thanks to its density and its long storage period. 
+      
+-------------new beer-----------
+beer: Brugge Brasserie Tripel de Ripple
+brewer: Brugge Brasserie
+style: Abbey Tripel
+number of ratings: 114
+weighted avg: 3.44
+overall rating: 83
+abv: 10%
+calories: 300
+description: 
+        Our blonde Belgian style Tripel exhibits notes of vanilla and perhaps pears. 
+      
+-------------new beer-----------
+beer: Bush Triple Blonde (Scaldis Triple)
+brewer: Dubuisson
+style: Abbey Tripel
+number of ratings: 158
+weighted avg: 3.54
+overall rating: 91
+abv: 10.5%
+calories: 315
+description: 
+        Only available in 75cl bottles, refermented in the bottle.
+      
+-------------new beer-----------
+beer: Sweetwater The Creeper
+brewer: Sweetwater Brewing Company
+style: Abbey Tripel
+number of ratings: 16
+weighted avg: 3.37
+overall rating: 86
+abv: 10%
+calories: 300
+description: 
+        Dank Tank Series #1 - The Creeper. The Dank Tank Series is a 50 barrel tank that we will be running experimental beers thru. The first run out of the dank tank is called "The Creeper" it is a Belgian trippel IPA and came in about 10% alc.
+      
+-------------new beer-----------
+beer: Monks Café Blend no.8 Kinship Evolution
+brewer: Monks Café Stockholm
+style: Abbey Tripel
+number of ratings: 39
+weighted avg: 3.48
+overall rating: 89
+abv: 10%
+calories: 300
+description: 
+        En unik blandning av Trippy Hoppel Monks Oakwood Edition & Trippy Hoppel Eskilstuna Edition.
+      
+-------------new beer-----------
+beer: Haw River #NoHoldsies: Holdsie Uno
+brewer: Haw River Farmhouse Ales
+style: Abbey Tripel
+number of ratings: 11
+weighted avg: 3.38
+overall rating: 79
+abv: 8.2%
+calories: 246
+description: 
+        Rye Tripel aged in second use oak Chardonnay barrels to help celebrate Bottle Revolutions third anniversary. 
